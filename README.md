@@ -1,6 +1,7 @@
 ## Salve ou welcome to the jungle.
-- 🌱 Estudando Javascript
+- 🌱 Desenvolvendo em React e TS no momento
 - 🙌 Em busca de um job front-end
+- 🎓 Estudando Node
 
 <div align="center">
   <a href="https://github.com/mCszao" />
