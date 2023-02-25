@@ -1,5 +1,5 @@
 ## Salve ou welcome to the jungle.
-- 🌱 Desenvolvendo em React e TS no momento
+- 🌱 Desenvolvendo em React + TS no momento
 - 🙌 Em busca de um job front-end
 - 🎓 Estudando Node
 
