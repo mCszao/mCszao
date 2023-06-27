@@ -1,7 +1,7 @@
 ## Salve ou welcome to the jungle.
-- 🌱 Desenvolvendo em React + TS e no momento
+- 🌱 Desenvolvendo na stack Javascript Front-end incluindo TypeSript 
 - 🙌 Em busca de um job front-end
-- 🎓 Estudando NestJS
+- 🎓 Estudando Programação
 
 <div align="center">
   <a href="https://github.com/mCszao" />
