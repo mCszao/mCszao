@@ -1,6 +1,6 @@
 ## Salve ou welcome to the jungle.
 - 🌱 Desenvolvendo na stack Javascript Front-end incluindo TypeSript 
-- 🙌 Em busca de um job front-end
+- 🙌 Em busca de um job 
 - 🎓 Estudando Programação
 
 
