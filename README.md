@@ -1,8 +1,4 @@
 ## Salve ou welcome to the jungle.
-- 🙌 Em busca de um job 
-- 🎓 Estudando Programação
-
-
 
    ## 
    
